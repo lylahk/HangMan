@@ -1,0 +1,2 @@
+SuperClass
+SuperClass$SubClass

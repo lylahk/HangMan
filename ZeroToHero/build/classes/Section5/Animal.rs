@@ -1,0 +1,4 @@
+Mammal
+Reptile
+Animal
+Dog
